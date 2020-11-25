@@ -12,7 +12,7 @@ const mouseButton = MouseButton`
     .btn-mouse:hover{
         opacity: 0.6;
     }
-    ${'../../img/mouse.svg'}
+    ${'./img/mouse.svg'}
 `;
 
 function MouseButton(css, ...value) {

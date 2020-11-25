@@ -21,10 +21,10 @@ const icons = Icons`
         height: 2vw;
         width: 0.3vw;
     }
-    ${'../../img/003-facebook.svg'}
-    ${'../../img/002-google-plus.svg'}
-    ${'../../img/001-twitter-logo-silhouette.svg'}
-    ${'../../img/instagram.svg'}
+    ${'./img/003-facebook.svg'}
+    ${'./img/002-google-plus.svg'}
+    ${'./img/001-twitter-logo-silhouette.svg'}
+    ${'./img/instagram.svg'}
 `;
 
 function Icons(css, ...value) {
@@ -74,7 +74,7 @@ const img = Img`
     .img-home{
         height: 50vh;
     }
-    ${'../../img/undraw_social_ideas_e8rj.svg'}
+    ${'./img/undraw_social_ideas_e8rj.svg'}
 `;
 
 function Img(css, ...value) {

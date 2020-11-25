@@ -1,27 +1,27 @@
 // Definição das constantes a serem inseridas nos componentes
 // Essas constantes serão passadas como valores nas Tagged Template do componente dos cars da seção Services
-// ${imgManagement} = "../../img/001-process.svg"
-const imgManagement = "../../img/001-process.svg";
+// ${imgManagement} = "./img/001-process.svg"
+const imgManagement = "./img/001-process.svg";
 const management = 'Social Media Management';
 const contentManagement = "Perfect for growing your brand'social community and engage with the right audience. We manage everything from curation of content to management of";
 
-const imgCampaign = "../../img/002-social-media.svg";
+const imgCampaign = "./img/002-social-media.svg";
 const campaign = 'Socials Growth Campaign';
 const contentCampaign = "Our social growth campaign will have your socials come alive. With constant growth and engagement you will be sure to have the thriving you've been looking for.";
 
-const imgMedia = "../../img/003-responsive.svg";
+const imgMedia = "./img/003-responsive.svg";
 const media = 'Branding & Media';
 const contentMedia = "Done right, branding offers a company an edge over the competition. So what exactly is branding, and why is it important for companies to integrate a well-rounded branding and media strategy?";
 
-const imgMarketing = "../../img/004-social-media-1.svg";
+const imgMarketing = "./img/004-social-media-1.svg";
 const marketing = "Influencer Marketing";
 const contentMarketing = "We will pair your business with influencers that speak to your audience. Influencer Marketing is the most effective way to reach a loyal audience";
 
-const imgAdvertising = "../../img/007-analysis.svg";
+const imgAdvertising = "./img/007-analysis.svg";
 const advertising = "Social Media Paid Advertising";
 const contentAdvertising = "Our ad compaigns will bring you the results your looking for. From brand awareness campaigns to lead funnels, we have got the tools to create the right ads for your business. Our re-targeting campaigns will be sure to get your visitors coming back to your site.";
 
-const imgMarketingServices = "../../img/008-computer.svg";
+const imgMarketingServices = "./img/008-computer.svg";
 const marketingServices = "Content Marketing Services";
 const contentMarketingServices = "We can create and provide your company with the best content marketing for your socials to improve online presence. Creating valuable and quality content helps boost conversions and improve customer retention";
 
