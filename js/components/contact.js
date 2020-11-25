@@ -13,10 +13,10 @@ const divImgLogo = DivImgLogo`
     .icon-contact:hover{
         opacity: 0.6;
     }
-    ${"../../img/facebook-white.svg"}
-    ${"../../img/google-plus-white.svg"}
-    ${"../../img/twitter-white.svg"}
-    ${"../../img/instagram-white.svg"}
+    ${"./img/facebook-white.svg"}
+    ${"./img/google-plus-white.svg"}
+    ${"./img/twitter-white.svg"}
+    ${"./img/instagram-white.svg"}
 `;
 
 function DivImgLogo(css, ...value) {
@@ -123,9 +123,9 @@ const contactNumbers = ContactNumbers`
     ${"000-000-0000"}
     ${"info@email.com"}
     ${"New Your, US"}
-    ${"../../img/envelope.svg"}
-    ${"../../img/maps-and-flags.svg"}
-    ${"../../img/old-handphone.svg"}
+    ${"./img/envelope.svg"}
+    ${"./img/maps-and-flags.svg"}
+    ${"./img/old-handphone.svg"}
 `;
 
 function ContactNumbers(css, ...value) {
@@ -175,7 +175,7 @@ function FooterContact(css, ...value) {
 // Inserindo os componentes na seção Contact
 const sectionContact = SectionContact`
     #contact{
-        background: url('../../img/Group-1.svg') no-repeat;
+        background: url('./img/Group-1.svg') no-repeat;
         background-position: bottom;
         background-size: 100%;
         padding: 5vh;

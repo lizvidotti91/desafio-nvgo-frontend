@@ -3,7 +3,7 @@ const containerImage = ContainerImage`
     .img-biography{
         height: 50vh;
     }
-    ${'../../img/biography.svg'}
+    ${'./img/biography.svg'}
 `;
 
 function ContainerImage(css, ...value) {
