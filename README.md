@@ -1,5 +1,7 @@
 # Desafio Front-End
 
+![WebSite](./captured.gif?raw=true "WebSite")
+
 ## Objetivo
 
 Desafio para vaga de Desenvolvedor(a) Front-End, que envolve a construção de website a partir de protótipo definido na plataforma Adobe XD, fornecido pela empresa.
