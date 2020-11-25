@@ -14,6 +14,13 @@ Desafio para vaga de Desenvolvedor(a) Front-End, que envolve a construção de w
 *   JavaScript; 
 *   HTML; 
 
+## O que eu aprendi
+
+* [Tagged Template Literals](https://www.alura.com.br/artigos/tagged-template-literals); 
+* [Template String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/template_strings); 
+* [insertAdjacentHTML](https://developer.mozilla.org/pt-BR/docs/Web/API/Element/insertAdjacentHTML); 
+* [Mini-curso feliz de JavaScript](https://github.com/lizvidotti91/minicurso-js-marco-bruno-dev); 
+
 ## Explicando a criação dos componentes
 
 Para a definição de um componente, utilizei o Tagged Template, introduzido pelo ES6.
